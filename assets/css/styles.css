@@ -214,12 +214,15 @@ img{
 }
 .home__img{
   position: absolute;
-  border-radius: 50px;
+  border-radius:50px;
   right: 0;
   bottom: 0;
   width: 295px;
 
 }
+
+
+
 
 
 
