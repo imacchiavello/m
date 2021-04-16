@@ -221,6 +221,11 @@ img{
 
 }
 
+@media screen and (max-width: 600px) {
+   .home__img{
+    width: 457px;
+    bottom: 15%;
+ }
 
 
 
