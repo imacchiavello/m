@@ -430,8 +430,7 @@ h2{text-align:center;
   }
  
   
-  .m1__img
-  { width: 300px;}
+  .m1__img{ }
 
   .about__container, .skills__container{
     grid-template-columns: repeat(2,1fr);
