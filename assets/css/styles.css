@@ -214,10 +214,15 @@ img{
 }
 .home__img{
   position: absolute;
+  border-radius: 50px;
   right: 0;
   bottom: 0;
   width: 295px;
+
 }
+
+
+
 
 /*BUTTONS*/
 .button{
@@ -245,9 +250,8 @@ img{
 }
 .about__img img{
   width: 200px;
-  border-radius: .5rem;
+  border-radius: 50px;
 }
-
 
 /* ===== SKILLS =====*/
 
@@ -304,12 +308,15 @@ h2{text-align:center;
   }
 }
 
+
+
 /* ===== WORK =====*/
 .work__container{
   row-gap: 2rem;
+  margin-top: 30px;
 }
 .work__img{
-  box-shadow: 0 4px 25px rgba(14,36,49,.15);
+  box-shadow: 0 3px 25px rgba(14,36,49,.15);
   border-radius: .5rem;
   overflow: hidden;
 }
@@ -431,6 +438,11 @@ h2{text-align:center;
     grid-template-rows: repeat(2,1fr);
     column-gap: 2rem;
   }
+
+  .brands_img{
+    margin-left: 55px;
+
+  }
   .contact__form{
     width: 360px;
   }
@@ -444,9 +456,5 @@ h2{text-align:center;
     margin-left: auto;
     margin-right: auto;
   }
-  .home__img{
-    right: 10%;
-  }
+  
 }
-
-
