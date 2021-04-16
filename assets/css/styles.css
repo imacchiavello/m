@@ -222,7 +222,7 @@ img{
 }
 
 @media screen and (max-width: 600px) {
-   .home__img{
+   .m1__img{
     width: 457px;
     bottom: 15%;
  }
